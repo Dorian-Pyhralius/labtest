@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Dorian-Pyhralius/labtest.github.io/labtest/sitemap.xml
+Sitemap: https://Dorian-Pyhralius.github.io/labtest/sitemap.xml
